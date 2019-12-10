@@ -1,0 +1,16 @@
+init: Legt git-Repository an.
+config: Anzeigen der globalen Konfigurationsdaten
+add: schlagt eine Änderung vor.
+commit: Speichert die Änderung.
+clone: Klont eine Datei/Ordner.
+remote: Lädt eine Änderung hoch.
+push: Veröffentlichung der Änderung.
+rm: Löschen.
+diff: Zeigt den Unterschied.
+pull: aktualisiert.
+status: zeigt, die Änderung, die gemacht werden soll.
+reset: reset die Änderung.
+log: Anmelden
+branch: Löscht eine branch.
+checkout: erstellt eine neue Branch.
+merge: Liefert den Verlauf 
